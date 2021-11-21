@@ -1,5 +1,5 @@
-# Mechine-Learning
-My own  Learning Process about Mechine Learning
+# Machine-Learning
+My own  Learning Process about Machine Learning
 
 ## Wu Enda 
 1. Note https://github.com/scruel/ML-AndrewNg-Notes/
